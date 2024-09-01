@@ -28,8 +28,11 @@ The dataset used in this project is provided by SyriaTel and contains various cu
 
 4. **Exploratory Data Analysis (EDA)**
     - Univariate and bivariate analyses are performed to understand the distribution of features and their relationship with the target variable (`churn`).
+    - ![image](https://github.com/user-attachments/assets/770ab403-efaf-4e5b-822c-9502011a9950)
+
     - Correlation matrices and visualizations are used to identify important features.
-![image](https://github.com/user-attachments/assets/0601f0b6-b420-4edc-90c7-4d5df0d68dc5)
+![image](https://github.com/user-attachments/assets/7a6d383a-17fb-4217-8618-2765b5ed2743)
+
 
 5. **Feature Engineering**
     - The dataset is prepared for modeling by encoding categorical variables, scaling numerical features, and splitting the data into training and testing sets.
