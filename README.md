@@ -43,6 +43,8 @@ The dataset used in this project is provided by SyriaTel and contains various cu
 
 7. **Model Evaluation**
     - The performance of the models is evaluated using metrics such as accuracy, confusion matrix, and classification report.
+    - ![image](https://github.com/user-attachments/assets/afaa3af1-1f96-4717-b82b-83ec84536ef2)
+
 
 8. **Hyperparameter Tuning**
     - Grid search is performed to find the best hyperparameters for the Random Forest model, optimizing its performance.
