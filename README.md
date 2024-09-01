@@ -49,10 +49,3 @@ The dataset used in this project is provided by SyriaTel and contains various cu
 10. **Conclusion**
     - Based on the model evaluation, recommendations are made on how SyriaTel can reduce customer churn and enhance customer satisfaction.
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/SyriaTel-Churn-Prediction.git
-   cd SyriaTel-Churn-Prediction
-
